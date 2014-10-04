@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	$("#buttonTest").on("click", function(){
-		//alert(json);
+		alert(json);
 		sendData();
 	})
 })
